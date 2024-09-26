@@ -51,7 +51,7 @@
 
 <hr>
 <h2>PROGRAM:</h2>
-</hr>
+<hr>
 
 ```
 from collections import defaultdict
